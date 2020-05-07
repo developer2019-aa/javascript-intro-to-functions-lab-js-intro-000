@@ -1,3 +1,3 @@
-let describe = (shout) => {
+let shout = (string) => {
   return shout.toUpperCase()
 }
